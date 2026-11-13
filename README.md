@@ -1,0 +1,2 @@
+# AI-Core
+lab activity
